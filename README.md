@@ -1,5 +1,5 @@
 # myvuesite
- A vue js revisited project
+ A simple vuejs functionality test project
 
 ## Project setup
 ```
