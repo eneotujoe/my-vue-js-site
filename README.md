@@ -1,5 +1,5 @@
 # myvuesite
-## A vue js revisited project
+ A vue js revisited project
 
 ## Project setup
 ```
